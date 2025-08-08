@@ -14,3 +14,38 @@ smartphone,samsung,245,145,40
 smartphone,vivo,856,45,10
 smartphone,oppo,471,71,20
 stationary,pen ,654,54,40
+electronics,smartwatch,950,300,20
+appliances,refrigerator,900,210,25
+appliances,washing machine,1200,290,35
+appliances,microwave,540,80,15
+clothes,jeans,610,180,20
+clothes,tshirt,450,75,30
+clothes,jacket,890,310,10
+clothes,shirt,530,130,15
+toys,lego,375,44,10
+toys,drone,1140,250,45
+toys,teddy bear,225,40,20
+books,novel,340,115,35
+books,comic,180,65,20
+books,textbook,720,310,15
+electronics,laptop,1500,650,20
+electronics,headphones,800,120,30
+electronics,tablet,1100,210,25
+electronics,speaker,410,92,40
+beauty,lipstick,280,88,15
+beauty,facewash,155,30,10
+beauty,perfume,450,105,25
+sports,football,320,62,20
+sports,cricket bat,850,215,35
+sports,basketball,430,80,20
+sports,tennis racquet,590,150,30
+stationary,eraser,90,18,5
+stationary,notebook,210,70,15
+furniture,sofa,1800,700,30
+furniture,table,620,180,20
+food,sandwich,460,73,25
+food,fries,299,39,10
+vehicle,scooter,380,40,15
+vehicle,truck,1200,180,45
+watch,fossil,750,110,25
+watch,timex,640,80,35
